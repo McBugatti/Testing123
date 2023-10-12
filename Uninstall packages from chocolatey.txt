@@ -1,0 +1,2 @@
+- choco uninstall <package_name>
+  **example** choco uninstall virtualbox  OR  choco uninstall vagrant
